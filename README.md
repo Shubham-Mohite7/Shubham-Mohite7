@@ -1,3 +1,5 @@
+Header](./your-header-image-name.png)
+
 🧠 I’m currently working on an  Sleep Analyser App 🧑🏻‍💻<br>🤝 looking to collaborate on cool Android & AI experiments 🤖<br>🧩looking for help with taming backend chaos 🧨<br>🌱 I’m currently learning Java, Kotlin & Data Structures (aka the holy trinity) 💻<br>💬 Ask me about apps, AI, or how I broke my code at 3 AM 😅<br>
 
 ## 🌐 Socials:
