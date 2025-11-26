@@ -1,26 +1,76 @@
-<br>💬 Ask me about apps, AI, or how I broke my code at 3 AM 😅  <br>  
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/NBa56nCu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sovereignsylph) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elite-shubham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohite.exe@gmail.com) 
+<!-- EPIC ANIMATED BANNER (4K, works perfectly) -->
+<img src="https://i.ibb.co.com/9h3q5vX/anime-banner-2025.gif" alt="Epic Anime Banner" width="100%"/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shubham-mohite7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shubham-mohite7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-mohite7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shubham-mohite7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Dynamic Visitor & Followers Badges -->
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Visitors+%E2%9C%A8&color=ff6ac1&style=flat-square" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shubham-mohite7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Shubham-mohite7&icon=0&color=0)](https://visitcount.itsvg.in)
+<br><br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Typing SVG Title -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&pause=1000&color=F76AC1&center=true&vCenter=true&width=800&lines=Hey+there+%F0%9F%91%8B+I'm+YOUR+SHUBHAM;AI+%2F+ML+Engineer;Building+the+future+with+code+%F0%9F%A4%96" alt="Typing SVG" />
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<!-- Cute Intro -->
+<p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasoCC8A6Q/giphy.gif" width="30px"/>
+  <b>2nd year CSE • Passionate about Computer Vision & LLMs </b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasoCC8A6Q/giphy.gif" width="30px"/>
+</p>
+
+<!-- Current Project Highlight -->
+<div style="background: linear-gradient(135deg,#667eea,#764ba2); padding: 20px; border-radius: 20px; max-width: 700px; margin: 20px auto; color: white;">
+  <h2>Currently Building</h2>
+  <h3>Zero-Shot Indian Food Calorie & Nutrition Estimator</h3>
+  <p>CLIP + IndoFoodVLM • Mobile-ready • 98% accuracy on 150+ Indian dishes</p>
+</div>
+
+<br>
+
+<!-- Tech Stack with Glow Effect -->
+<h2>Tech Arsenal</h2>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,huggingface,fastapi,docker,git,linux,neovim,vscode,postgres&theme=dark&perline=9" />
+
+<br>
+
+<!-- Stats Side by Side with Glow -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff6ac1&text_color=ffffff&icon_color=ff6ac1&ring=ff6ac1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=dracula&hide_border=true&background=1a1a2e&stroke=ff6ac1&ring=ff6ac1&fire=ff79c6&currStreakLabel=ff6ac1" />
+
+<!-- Top Languages Donut -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=donut&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff6ac1&text_color=white" />
+
+<br>
+
+<!-- Trophy Wall -->
+<h2>Trophy Shelf</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=juicyfresh&no-frame=true&row=1&column=7&margin-w=15" />
+
+<br>
+
+<!-- Connect Buttons with Hover Glow -->
+<h2>Let's Connect</h2>
+<p>
+  <a href="https://linkedin.com/in/elite-shubham"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohite.exe@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<br>
+
+<!-- Final Cute Footer -->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+<b>Thanks for dropping by~ Feel free to star if you like my work ♡</b>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+
+<br><br>
+
+<!-- Tiny Sparkles -->
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b6b2c8c3-7c9e-4c8b-8e1e-5d9c3cd5f9e5.gif" width="100%"/>
+
+</div>
