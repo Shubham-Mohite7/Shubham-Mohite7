@@ -1,7 +1,4 @@
-<div align="center">
 
-<!-- EPIC ANIMATED BANNER (4K, works perfectly) -->
-<img src="https://i.ibb.co.com/9h3q5vX/anime-banner-2025.gif" alt="Epic Anime Banner" width="100%"/>
 
 <br><br>
 
