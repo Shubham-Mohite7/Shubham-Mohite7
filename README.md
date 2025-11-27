@@ -1,7 +1,5 @@
 <div align="center">
 
-<br><br>
-
 <!-- Dynamic Visitor & Followers Badges -->
 <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Visitors+%E2%9C%A8&color=ff6ac1&style=flat-square" />
 
