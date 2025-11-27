@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- EPIC ANIMATED BANNER (4K, works perfectly) -->
 <br><br>
 
 <!-- Dynamic Visitor & Followers Badges -->
