@@ -10,7 +10,7 @@
 <br><br>
 
 <!-- Typing SVG Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&pause=1000&color=F76AC1&center=true&vCenter=true&width=800&lines=Hey+there+%F0%9F%91%8B+I'm+YOUR+SHUBHAM;AI+%2F+ML+Engineer;Building+the+future+with+code+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&pause=1000&color=F76AC1&center=true&vCenter=true&width=800&lines=Hey+there+%F0%9F%91%8B+I'M+SHUBHAM;AI+%2F+ML+Engineer;Building+the+future+with+code+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br>
 
