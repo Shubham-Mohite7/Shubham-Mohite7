@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img src="https://count.getloli.com/@jyyhuang?name=jyyhuang&theme=booru-vp&padding=4&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto" alt="Shubham Mohite">
+        <img src="https://count.getloli.com/@Shubham?name=Shubham&theme=booru-vp&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=12958">
     </p>
 </div>
 
