@@ -1,63 +1,107 @@
-<!-- Animated Dark Anime Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
+  <img src="https://i.imgur.com/your-anime-banner.jpg" width="100%" />
 </p>
 
-<h1 align="center">⚡ Shubham Mohite</h1>
+<h1 align="center">🌙 Shubham Mohite</h1>
 
 <p align="center">
-  <i>Vision × Multimodal Intelligence × Applied AI</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7A5FFF&center=true&vCenter=true&width=600&lines=Building+Perceptive+Machines.;Zero-Shot+Vision+Research.;Multimodal+Systems.;Edge-Ready+AI+Models." />
+  Vision • Multimodal Intelligence • Applied AI  
+  <br>
+  <i>Building systems where perception meets reasoning.</i>
 </p>
 
 ---
 
-### 🌑 About
+## 🌌 About
 
-AI/ML Engineer focused on:
+> “Intelligence is not memorization — it is perception shaped by context.”
 
-✦ Computer Vision  
-✦ Vision–Language Models  
-✦ Zero-shot Generalization  
-✦ Efficient Inference  
+I’m a **Computer Science undergraduate (AI/ML)** focused on designing  
+**practical, deployable AI systems** at the intersection of:
 
----
+- 👁️ Computer Vision  
+- 🧠 Multimodal Learning  
+- 📦 Applied Machine Learning  
 
-### ⚙️ Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,linux,postgres,git" />
-</p>
+I aim to translate **research ideas → real-world systems**  
+with an emphasis on robustness, efficiency, and cultural inclusivity.
 
 ---
 
-### 🌌 Current Focus
+## 🧪 Research Direction
 
-> Zero-Shot Indian Food Calorie Estimation  
-> Robust AI for culturally diverse datasets  
+✦ Representation Learning  
+✦ Vision–Language Architectures (CLIP-style, Multimodal LLMs)  
+✦ Zero-shot & Few-shot Generalization  
+✦ Dataset bias & domain adaptation (non-Western data focus)  
+✦ Efficient inference for edge/mobile systems  
 
 ---
+
+## 🏗️ Featured Project
+
+### 🍛 Zero-Shot Indian Food Calorie & Nutrition Estimator
+
+> *Bridging cultural data gaps in nutritional AI systems.*
+
+**Problem**  
+Most calorie estimation models underperform on Indian cuisine due to dataset imbalance.
+
+**Approach**
+- Vision-based estimation using **CLIP + IndoFoodVLM**
+- Zero-shot generalization to unseen dishes
+- Designed with mobile deployment constraints
+
+**Status**
+- Evaluated on 150+ Indian dishes  
+- Focused on robustness & real-world usability  
+
+---
+
+## 🛠 Technical Arsenal
+
+### ⚙️ Machine Learning
+`Python` · `PyTorch` · `TensorFlow` · `OpenCV` · `Hugging Face`
+
+### 🧩 Systems & Backend
+`FastAPI` · `Docker` · `Linux` · `PostgreSQL`
+
+### 🗡 Tools
+`Git` · `VS Code` · `Neovim`
+
+---
+
+## 📖 Currently Studying
+
+- Advanced Vision–Language architectures  
+- Paper reproduction & experimental rigor  
+- Model compression & inference optimization  
+- Deep reading of CV/ML research  
+
+---
+
+## 🌊 Open To
+
+🧪 AI / ML Research Internships  
+🔥 Applied AI Engineering Roles  
+📄 Research collaborations  
+🧠 Technical discussions & mentorship  
+
+---
+
+## 📬 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/elite-shubham">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohite.exe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60%" />
-</p>
-
-<p align="center">
-  <i>"Calm mind. Sharp models. Intentional systems."</i>
+  <i>Calm mind. Sharp models. Intentional systems.</i>
 </p>
