@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img src="https://count.getloli.com/@jyyhuang?name=jyyhuang&theme=booru-vp&padding=4&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto" alt="jyyhuang">
+        <img src="https://count.getloli.com/@jyyhuang?name=jyyhuang&theme=booru-vp&padding=4&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto" alt="Shubham Mohite">
     </p>
 </div>
 
@@ -12,18 +12,15 @@ joey@huang: ~/readme $ fastfetch
 
 ```csharp
 ------------------------------------------------------------
-username: jyyhuang
-whoami: cs @ temple university
+username: Shubham-Mohite7
+whoami: cs @ mumbai university
 pronouns: he/him
-os: arch linux
-languages: python, javascript, c, java
-learning: ml/ai, rust
+os: mac os
+languages: python, java, javascript etc
+learning: ai/ml, open cv, computer vision, llm
 reading: tcp/ip illustrated
-locations: united states
-hobbies: programming, gaming, anime/manga, music, fashion
-song: kuuchuu buranko by plastic tree
-favorite.game: league of legends
-favorite.anime: one piece
+locations: mumbai
+hobbies: programming, gaming, tech, music
 ------------------------------------------------------------
 ```
 
@@ -31,7 +28,7 @@ favorite.anime: one piece
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,nodejs,react,c,java,arch,neovim,git,gcp,aws,docker,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,nodejs,react,c,java,git,docker,mongodb,javascript" />
   </a>
 </p>
 
@@ -40,15 +37,11 @@ favorite.anime: one piece
 <h3 align="center">Connect with me</h3>
 
 [![Website](https://img.shields.io/badge/website-24283b?style=for-the-badge)](https://jyyhuang.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-24283b?style=for-the-badge&logo)](https://www.linkedin.com/in/joeyhuang3/)
-[![Github](https://img.shields.io/badge/github-24283b?style=for-the-badge&logo=github)](https://github.com/jyyhuang)
-[![Gmail](https://img.shields.io/badge/joeyhuang.dev-24283b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeyhuang.dev@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-24283b?style=for-the-badge&logo)](https://www.linkedin.com/in/elite-shubham/)
+[![Github](https://img.shields.io/badge/github-24283b?style=for-the-badge&logo=github)](https://github.com/Shubham-Mohite7)
+[![Gmail](https://img.shields.io/badge/joeyhuang.dev-24283b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohite.exe@gmail.com)
 </div>
 
 <div align="center">
-    
-![My GitHub stats](https://github-readme-stats-opal-psi-50.vercel.app/api?username=jyyhuang&show_icons=true&theme=tokyonight&card_width=400&line_height=24)
-![Top Languages](https://github-readme-stats-opal-psi-50.vercel.app/api/top-langs/?username=jyyhuang&theme=tokyonight&layout=compact&langs_count=8)
-</div>
 
 <h3 align="center">Thanks for Reading <3</h3>
