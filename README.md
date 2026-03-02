@@ -30,7 +30,7 @@ hobbies: programming, gaming, tech, music
 <div align="center">
 <h3 align="center">Connect with me</h3>
 
-[![Website](https://img.shields.io/badge/website-24283b?style=for-the-badge)](https://jyyhuang.com)
+[![Website](https://img.shields.io/badge/website-24283b?style=for-the-badge)](https://(https://bit.ly/abt-dev)
 [![Linkedin](https://img.shields.io/badge/linkedin-24283b?style=for-the-badge&logo)](https://www.linkedin.com/in/elite-shubham/)
 [![Github](https://img.shields.io/badge/github-24283b?style=for-the-badge&logo=github)](https://github.com/Shubham-Mohite7)
 [![Gmail](https://img.shields.io/badge/joeyhuang.dev-24283b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohite.exe@gmail.com)
