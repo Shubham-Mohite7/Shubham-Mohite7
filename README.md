@@ -1,106 +1,63 @@
-<h1 align="center">Hi, I'm Shubham Mohite👋</h1>
+<!-- Animated Dark Anime Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
+</p>
+
+<h1 align="center">⚡ Shubham Mohite</h1>
 
 <p align="center">
-  AI / ML Engineer · Computer Vision · Multimodal LLMs  
-  <br>
-  2nd Year CSE Undergraduate 
-  (Mumbai)
+  <i>Vision × Multimodal Intelligence × Applied AI</i>
 </p>
 
 ---
 
-## 🎯 Profile Summary
-
-I am a **Computer Science undergraduate** focused on building **practical AI systems** at the intersection of  
-**Computer Vision, Multimodal Learning, and Applied Machine Learning**.
-
-My interests lie in:
-- Translating **research ideas into deployable systems**
-- Working on **vision + language problems**
-- Building AI for **real-world, large-scale use cases**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7A5FFF&center=true&vCenter=true&width=600&lines=Building+Perceptive+Machines.;Zero-Shot+Vision+Research.;Multimodal+Systems.;Edge-Ready+AI+Models." />
+</p>
 
 ---
 
-## 🧪 Research Interests
+### 🌑 About
 
-- Computer Vision (Recognition, Representation Learning)
-- Vision–Language Models (CLIP-style, Multimodal LLMs)
-- Zero-shot & Few-shot Learning
-- Dataset bias & domain adaptation (especially non-Western data)
-- Efficient inference for edge / mobile devices
+AI/ML Engineer focused on:
 
----
-
-## 🏗️ Current Project
-
-### Zero-Shot Indian Food Calorie & Nutrition Estimator 🍛
-
-**Problem:**  
-Most calorie-estimation systems fail on Indian food due to lack of data and cultural diversity.
-
-**Approach:**  
-- Vision-based calorie estimation using **CLIP + IndoFoodVLM**
-- Zero-shot inference on unseen dishes
-- Focus on **mobile-ready deployment**
-
-**Status:**  
-- Evaluated on **150+ Indian dishes**
-- Emphasis on robustness and real-world usability
+✦ Computer Vision  
+✦ Vision–Language Models  
+✦ Zero-shot Generalization  
+✦ Efficient Inference  
 
 ---
 
-## 🛠 Technical Skills
+### ⚙️ Stack
 
-**Programming & ML**
-- Python
-- PyTorch, TensorFlow
-- OpenCV
-- Hugging Face Ecosystem
-
-**Backend & Deployment**
-- FastAPI
-- Docker
-- Linux
-- PostgreSQL
-
-**Tools**
-- Git
-- VS Code
-- Neovim
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,linux,postgres,git" />
+</p>
 
 ---
 
-## 📚 What I’m Actively Learning
+### 🌌 Current Focus
 
-- Advanced vision–language architectures
-- Research paper implementation & reproduction
-- Model optimization for inference efficiency
-- Reading and analyzing CV / ML papers
+> Zero-Shot Indian Food Calorie Estimation  
+> Robust AI for culturally diverse datasets  
 
 ---
-
-## 🤝 Open To
-
-- 🔥 **AI / ML Internships**
-- 🧪 **Research Internships**
-- 📄 **Research collaborations**
-- 🧠 Mentorship & technical discussions
-
----
-
-## 📬 Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/elite-shubham">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohite.exe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Focused on fundamentals. Building with intent.</i>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60%" />
+</p>
+
+<p align="center">
+  <i>"Calm mind. Sharp models. Intentional systems."</i>
 </p>
