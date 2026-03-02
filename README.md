@@ -32,7 +32,6 @@ hobbies: programming, gaming, tech, music
 
 [![Linkedin](https://img.shields.io/badge/linkedin-24283b?style=for-the-badge&logo)](https://www.linkedin.com/in/elite-shubham/)
 [![Github](https://img.shields.io/badge/github-24283b?style=for-the-badge&logo=github)](https://github.com/Shubham-Mohite7)
-[![Gmail](https://img.shields.io/badge/joeyhuang.dev-24283b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohite.exe@gmail.com)
 </div>
 
 <div align="center">
