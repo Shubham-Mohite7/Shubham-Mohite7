@@ -7,14 +7,13 @@
 ```csharp
 ------------------------------------------------------------
 username: Shubham-Mohite7
-whoami: cs @ mumbai university
+whoami: cs @ university of mumbai
 pronouns: he/him
 os: mac os
 languages: python, java, javascript etc
 learning: ai/ml, open cv, computer vision, llm
-reading: tcp/ip illustrated
 locations: mumbai
-hobbies: programming, gaming, tech, music
+hobbies: programming, gaming, doing techie things...
 ------------------------------------------------------------
 ```
 
