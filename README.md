@@ -11,7 +11,7 @@ whoami: cs @ university of mumbai
 pronouns: he/him
 os: mac os
 languages: python, java, javascript etc
-learning: ai/ml, open cv, computer vision, llm
+learning: ai/ml, open cv, computer vision, llm, web development
 locations: mumbai
 hobbies: programming, gaming, doing techie things...
 ------------------------------------------------------------
