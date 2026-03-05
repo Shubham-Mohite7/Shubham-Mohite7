@@ -35,4 +35,4 @@ hobbies: programming, gaming, doing techie things...
 
 <div align="center">
 
-<h3 align="center">❄️ Thanks for Reading ❄️</h3>
+<h3 align="center">❄️ Thanks for Reading ❄️</h3>.
