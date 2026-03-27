@@ -21,7 +21,7 @@ hobbies: programming, gaming, doing techie things...
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,anaconda,ts,js,nodejs,tailwind,react,java,git,docker,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,anaconda,ts,js,nodejs,tailwind,react,java,git,docker,firebase,supabase,mongodb" />
   </a>
 </p>
 
