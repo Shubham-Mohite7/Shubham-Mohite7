@@ -10,7 +10,7 @@ username: Shubham-Mohite7
 whoami: cs @ university of mumbai
 pronouns: he/him
 os: mac os
-languages: python, java, javascript etc
+languages: python, java, javascript ...
 learning: ai/ml, open cv, computer vision, llm, web development
 locations: mumbai
 hobbies: programming, gaming, doing techie things...
